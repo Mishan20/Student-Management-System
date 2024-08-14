@@ -12,5 +12,4 @@ public class StudentSaveDTO {
     private String address;
     private String phone;
 
-
 }
