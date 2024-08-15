@@ -2,6 +2,7 @@ package com.ims.studentmanagementapp.service.IMPL;
 
 import com.ims.studentmanagementapp.dto.CourseDTO;
 import com.ims.studentmanagementapp.dto.CourseSaveDTO;
+import com.ims.studentmanagementapp.dto.CourseUpdateDTO;
 import com.ims.studentmanagementapp.entity.Course;
 import com.ims.studentmanagementapp.repo.CourseRepo;
 import com.ims.studentmanagementapp.service.CourseService;
